@@ -14,9 +14,9 @@
 <p align="left">
 <a href="https://twitter.com/priyansu__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyansu__singh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priaynsusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priaynsusingh" height="30" width="40" /></a>
-<a href="https://fb.com/priyansu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyansu singh" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generatorhttps://www.facebook.com/profile.php?id=100029667990787/master/src/images/icons/Social/facebook.svg" alt="priyansu singh" height="30" width="40" /></a>
 <a href="https://instagram.com/_priyansu__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyansu__singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priyansu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyansu singh" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCQKnkSHgvCHq7rfQCxC9mEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyansu singh" height="30" width="40" /></a>
 </p>
 
 
