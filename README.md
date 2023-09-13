@@ -1,31 +1,27 @@
-<h1 align="center">Hi 👋, I'm Priyansu singh</h1>
-<h3 align="center">A passionate learner from India.</h3>
+# 💫 About Me:
+I’m currently working on My youtube channel ;<br><br>🌱 I’m currently learning Coding languages like C,C++.<br><br>👨‍💻 All of my projects are available at my youtube channel; https://youtube.com/channel/priyansusingh<br><br>📫 How to reach me priyansusingh3344@gmail.com<br>
 
 
-- 🔭 I’m currently working on [My youtube channel ;](https://youtube.com/channel/UCQKnkSHgvCHq7rfQCxC9mEg)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_priyansu__singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansusingh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/priyansu__singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyansu_singh) 
 
-- 🌱 I’m currently learning **Coding languages like C,C++.**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priyansusingh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyansusingh&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansusingh&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at my youtube channel; [https://youtube.com/channel/UCQKnkSHgvCHq7rfQCxC9mEg](https://youtube.com/channel/UCQKnkSHgvCHq7rfQCxC9mEg)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 📫 How to reach me **priyansusingh3344@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyansusingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyansu__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyansu__singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priaynsusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priaynsusingh" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generatorhttps://www.facebook.com/profile.php?id=100029667990787/master/src/images/icons/Social/facebook.svg" alt="priyansu singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_priyansu__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyansu__singh" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCQKnkSHgvCHq7rfQCxC9mEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyansu singh" height="30" width="40" /></a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=priyansusingh&icon=5&color=4)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
