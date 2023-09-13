@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m currently working on My youtube channel ;<br><br>🌱 I’m currently learning Coding languages like C,C++.<br><br>👨‍💻 All of my projects are available at my youtube channel; https://youtube.com/channel/priyansusingh<br><br>📫 How to reach me priyansusingh3344@gmail.com<br>
+<h3>  I am pursuing my Bachelor's degree in Computer Science stream from Asansol Engineering college. I am interseted in web development and competitive coding. Currently i am learning coding languages like C and C++. I am also into video editing and Graphic designing.
+
+I have done my primary education from St josephs high school(class 1st-10th) and Burnpur boys high school (Class 11th-12th). <h3/>
 
 
 ## 🌐 Socials:
