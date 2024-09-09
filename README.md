@@ -6,7 +6,7 @@
 ### <div align="center">I'm Priyansu, a full-time full-stack web developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [My Skills](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [My Skills](https://github.com/priyansusingh)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
