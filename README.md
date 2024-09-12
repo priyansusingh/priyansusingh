@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [My Skills](https://github.com/priyansusingh)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Next.js   
   
 
 - ❓ Ask me about anything related to FULL stack and related technologies  
