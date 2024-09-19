@@ -114,7 +114,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  <!-- BLOG-POST-LIST:END -->  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
