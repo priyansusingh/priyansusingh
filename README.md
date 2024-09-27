@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Priyansu, a full-time full-stack web developer 👨‍💻 working remotely since 2023 🚀</div>
+### <div align="center">I'm Priyansu, a full-time full-stack web developer</div>
   
 
 - 🔭 I’m currently working on [My Skills](https://github.com/priyansusingh)  
