@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Priyansu, a full-time full-stack web developer</div>
+### <div align="center">I'm Priyansu, a full-stack web developer</div>
   
 
 - 🔭 I’m currently working on [My Skills](https://github.com/priyansusingh)  
