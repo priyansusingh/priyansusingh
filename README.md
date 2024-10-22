@@ -5,22 +5,6 @@
   
 ### <div align="center">I'm Priyansu, a full-stack web developer</div>
   
-
-- 🔭 I’m currently working on [My Skills](https://github.com/priyansusingh)  
-  
-
-- 🌱 I’m currently learning Next.js   
-  
-
-- ❓ Ask me about anything related to FULL stack and related technologies  
-  
-
-- **⚡ Fun fact: I use tabs over spaces**  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
