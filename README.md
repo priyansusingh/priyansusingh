@@ -3,7 +3,7 @@
 </div>  
 
   
-### <div align="center">I'm Priyansu, a full-stack web developer</div>
+### <div align="center">I'm Priyansu, a Full stack developer</div>
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
